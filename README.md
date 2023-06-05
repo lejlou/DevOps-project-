@@ -5,7 +5,7 @@ Building a Highly Available, Scalable Web Application, a project which is assign
 ## Group members
 - Naida Smailbegović (@NaidaSma https://github.com/NaidaSma) 
 - Lejla Srna (@lejlou https://github.com/lejlou)
-- Faris Čaušević ()
+- Faris Čaušević (@fcausevic1 https://github.com/fcausevic1)
 
 ## Project description
 
