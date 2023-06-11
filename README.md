@@ -8,4 +8,8 @@ Building a Highly Available, Scalable Web Application, a project which is assign
 - Faris Čaušević (@fcausevic1 https://github.com/fcausevic1)
 
 ## Project description
+## Phase 1: Planning the design and estimating cost
+In this phase, we planed the design of our architecture. First, we create an architecture diagram. 
+
+<img src= docs/Arhitectual diagram.png alt=instagram style="margin-bottom: 5px;" />
 
