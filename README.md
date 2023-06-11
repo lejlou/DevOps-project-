@@ -11,5 +11,5 @@ Building a Highly Available, Scalable Web Application, a project which is assign
 ## Phase 1: Planning the design and estimating cost
 In this phase, we planed the design of our architecture. First, we create an architecture diagram. 
 
-<img src= docs/Arhitectual diagram.png alt=instagram style="margin-bottom: 5px;" />
+<img src= docs/Arhitectual diagram.png style="margin-bottom: 5px;" />
 
